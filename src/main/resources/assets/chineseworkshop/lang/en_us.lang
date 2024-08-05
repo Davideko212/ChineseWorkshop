@@ -133,19 +133,19 @@ tile.chineseworkshop.thin_wall_rb.name=Thin Wall-Rammed Earth
 tile.chineseworkshop.thin_wall_re.name=Thin Wall-Cobblestone
 tile.chineseworkshop.thin_wall_wg.name=Thin Wall-White Gray
 
-tile.chineseworkshop.black_tile_ridge_roof_edge_w.name=Blakc Tile Ridge Roof Edge-Wooden
-tile.chineseworkshop.black_tile_ridge_roof_edge_bb.name=Blakc Tile Ridge Roof Edge-Black Brick
-tile.chineseworkshop.black_tile_ridge_roof_edge_c.name=Blakc Tile Ridge Roof Edge-Rouge Brick
-tile.chineseworkshop.black_tile_ridge_roof_edge_rb.name=Blakc Tile Ridge Roof Edge-Rammed Earth
-tile.chineseworkshop.black_tile_ridge_roof_edge_re.name=Blakc Tile Ridge Roof Edge-Cobblestone
-tile.chineseworkshop.black_tile_ridge_roof_edge_wg.name=Blakc Tile Ridge Roof Edge-White Gray
+tile.chineseworkshop.black_tile_ridge_roof_edge_w.name=Black Tile Ridge Roof Edge-Wooden
+tile.chineseworkshop.black_tile_ridge_roof_edge_bb.name=Black Tile Ridge Roof Edge-Black Brick
+tile.chineseworkshop.black_tile_ridge_roof_edge_c.name=Black Tile Ridge Roof Edge-Rouge Brick
+tile.chineseworkshop.black_tile_ridge_roof_edge_rb.name=Black Tile Ridge Roof Edge-Rammed Earth
+tile.chineseworkshop.black_tile_ridge_roof_edge_re.name=Black Tile Ridge Roof Edge-Cobblestone
+tile.chineseworkshop.black_tile_ridge_roof_edge_wg.name=Black Tile Ridge Roof Edge-White Gray
 
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_w.name=Blakc Tile Ridge Roof Edge Top-Wooden
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_bb.name=Blakc Tile Ridge Roof Edge Top-Black Brick
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_c.name=Blakc Tile Ridge Roof Edge Top-Rouge Brick
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_rb.name=Blakc Tile Ridge Roof Edge Top-Rammed Earth
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_re.name=Blakc Tile Ridge Roof Edge Top-Cobblestone
-tile.chineseworkshop.black_tile_ridge_roof_edge_t_wg.name=Blakc Tile Ridge Roof Edge Top-White Gray
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_w.name=Black Tile Ridge Roof Edge Top-Wooden
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_bb.name=Black Tile Ridge Roof Edge Top-Black Brick
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_c.name=Black Tile Ridge Roof Edge Top-Rouge Brick
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_rb.name=Black Tile Ridge Roof Edge Top-Rammed Earth
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_re.name=Black Tile Ridge Roof Edge Top-Cobblestone
+tile.chineseworkshop.black_tile_ridge_roof_edge_t_wg.name=Black Tile Ridge Roof Edge Top-White Gray
 
 item.chineseworkshop.logo.name=Debug Tool
 item.chineseworkshop.black_clay.name=Black Clay
